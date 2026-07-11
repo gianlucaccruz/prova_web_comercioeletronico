@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "nome": "Boné Ferrari GP São Paulo",
+    "escuderia": "Ferrari",
+    "piloto": "Charles Leclerc",
+    "preco": 189.90,
+    "avaliacao": 4.8,
+    "imagem": "/imagens/boneferrari.png",
+    "destaque": true
+  },
+  {
+    "id": 2,
+    "nome": "Camiseta McLaren Interlagos",
+    "escuderia": "McLaren",
+    "piloto": "Lando Norris",
+    "preco": 159.90,
+    "avaliacao": 4.6,
+    "imagem": "/imagens/camiseta-mclaren.png",
+    "destaque": true
+  },
+  {
+    "id": 3,
+    "nome": "Jaqueta Mercedes AMG Petronas",
+    "escuderia": "Mercedes",
+    "piloto": "Lewis Hamilton",
+    "preco": 399.90,
+    "avaliacao": 4.9,
+    "imagem": "/imagens/jaqueta-mercedes.png",
+    "destaque": true
+  },
+  {
+    "id": 4,
+    "nome": "Miniatura RB20 Red Bull 1:43",
+    "escuderia": "Red Bull",
+    "piloto": "Max Verstappen",
+    "preco": 129.90,
+    "avaliacao": 4.7,
+    "imagem": "/imagens/miniatura-redbull.png",
+    "destaque": false
+  },
+  {
+    "id": 5,
+    "nome": "Camiseta Legado Ayrton Senna",
+    "escuderia": "McLaren Vintage",
+    "piloto": "Ayrton Senna",
+    "preco": 179.90,
+    "avaliacao": 5.0,
+    "imagem": "/imagens/camiseta-senna.png",
+    "destaque": true
+  },
+  {
+    "id": 6,
+    "nome": "Boné Aston Martin GP Brasil",
+    "escuderia": "Aston Martin",
+    "piloto": "Fernando Alonso",
+    "preco": 169.90,
+    "avaliacao": 4.5,
+    "imagem": "/imagens/bone-aston-martin.png",
+    "destaque": false
+  },
+  {
+    "id": 7,
+    "nome": "Jaqueta Red Bull Racing",
+    "escuderia": "Red Bull",
+    "piloto": "Sergio Pérez",
+    "preco": 379.90,
+    "avaliacao": 4.4,
+    "imagem": "/imagens/jaqueta-redbull.png",
+    "destaque": false
+  },
+  {
+    "id": 8,
+    "nome": "Miniatura Ferrari SF-24 1:43",
+    "escuderia": "Ferrari",
+    "piloto": "Charles Leclerc",
+    "preco": 139.90,
+    "avaliacao": 4.6,
+    "imagem": "/imagens/miniatura-ferrari-sf24.png",
+    "destaque": false
+  }
+]
